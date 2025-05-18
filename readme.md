@@ -1,6 +1,4 @@
 
-# PlainWeb – A Pure JavaScript Component-Based Web Framework
-
 **PlainWeb** is a minimalist web development boilerplate designed to build fully functional web applications **without** any build tools, bundlers, or frontend frameworks.
 
 It brings together the power of:
